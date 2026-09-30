@@ -1,0 +1,319 @@
+site:
+  title: Goutham Muppala
+  wordmark: Goutham Muppala
+  description: The personal website of Goutham Muppala, a software and data engineer working across distributed systems, cloud-native platforms, and artificial intelligence.
+  shortDescription: Software engineering, data systems, cloud-native platforms, and applied AI.
+  url: https://gm7y8.github.io
+  footer: Goutham Muppala · San Francisco Bay Area
+navigation: { about: About, timeline: Timeline, blog: Blog }
+profile:
+  name: Goutham Muppala
+  email: ""
+  social:
+    - { label: GitHub, url: "https://github.com/gm7y8" }
+    - { label: LinkedIn, url: "https://www.linkedin.com/in/gouthammuppala/" }
+    - { label: Google Scholar, url: "https://scholar.google.com/scholar?q=%22Goutham+Muppala%22" }
+home:
+  eyebrow: Software engineer · San Francisco Bay Area
+  headline: I build data systems and explore what comes next in AI.
+  introduction: I am Goutham Muppala, a software and data engineer at Cisco with a background in computer networks, distributed systems, cloud-native development, and applied artificial intelligence.
+  primaryAction: { label: Explore the timeline, url: "#journey" }
+  secondaryAction: { label: Read the blog, url: /blog }
+  timelineEyebrow: Selected journey
+  timelineTitle: Experience and education—connected
+  writingEyebrow: Latest writing
+  writingTitle: Notes from the workbench
+  allPostsLabel: All posts
+  current:
+    eyebrow: Currently
+    title: Engineering at Cisco and continuing to learn in AI.
+    description: My recent work and study span data engineering, Kubernetes and microservices, generative AI, deep learning, and reinforcement learning.
+    linkLabel: Browse all notes
+about:
+  eyebrow: About
+  headline: Software engineer, systems thinker, and lifelong student.
+  introduction: I have built my career across software development, data engineering, computer networks, and cloud-native systems, while continuing advanced study in artificial intelligence.
+  valuesEyebrow: Focus areas
+  valuesTitle: Systems, data, and applied AI.
+  paragraphs:
+    - Since 2017, I have worked at Cisco in the San Francisco Bay Area, currently as a Software Engineer IV (Data Engineer). Earlier roles at TCS, the National Association of Insurance Commissioners, and the University of Missouri–Kansas City built a foundation in software engineering, databases, testing, computer networks, and teaching.
+    - I contribute to open-source repositories including Apache Flink, Apache Hive, and Kubernetes.
+    - My current learning centers on generative AI, deep learning, reinforcement learning, and deep generative models through Stanford Engineering. I also study the systems around modern software, including Kubernetes, Flink, Apache Beam, Docker, microservices, Java, Python, Go, and Node.js.
+    - I hold a master’s degree in Computer Science from UMKC and a bachelor’s degree in Electronics and Communication Engineering from Jawaharlal Nehru Technological University. In 2025, I also completed MIT xPRO’s Quantum Computing program.
+  certificationsEyebrow: Credentials
+  certificationsTitle: Certifications and focused study.
+  certificationsLinkLabel: View on LinkedIn
+  timelineEyebrow: Journey
+  timelineTitle: The longer version
+  blogLinkLabel: Continue to the writing
+blog:
+  eyebrow: The blog
+  title: Notes from the workbench.
+  description: Essays, observations, and practical notes about making useful things with care.
+  backLabel: All writing
+  nextLabel: Next note
+certifications:
+  - { title: Certified Kubernetes Application Developer, issuer: Cloud Native Computing Foundation (CNCF), issued: Jan 2025, expires: Jan 2027, credentialId: LF-pripf1jvla }
+  - { title: Prometheus Certified Associate, issuer: Cloud Native Computing Foundation (CNCF), issued: Jan 2024, credentialId: LF-4g2wrxerv4 }
+  - { title: Deep Learning, issuer: Coursera, issued: Nov 2021 }
+  - { title: "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization", issuer: DeepLearning.AI, issued: Oct 2021 }
+  - { title: Neural Networks and Deep Learning, issuer: Coursera, issued: Oct 2021 }
+  - { title: Jenkins - Fundamentals, issuer: "CloudBees, Inc.", issued: Feb 2021 }
+  - { title: Financial Basics Everyone Should Know, issuer: LinkedIn, issued: May 2020 }
+  - { title: "CP100A: Google Cloud Platform Fundamentals", issuer: ROI Training, issued: Apr 2016 }
+  - { title: Certified Developer—Associate Certification for AWS, issuer: "Cloud Academy, Inc.", issued: Mar 2016 }
+  - { title: Docker and Container Technologies }
+  - { title: Oracle PL/SQL Developer Certified Associate, issuer: Oracle, issued: Mar 2014 }
+  - { title: Programming in HTML5 with JavaScript and CSS3, issuer: Microsoft, issued: Feb 2013 }
+timeline:
+  legend: { work: Work, note: Education }
+  entries:
+    - year: 2017–Now
+      type: work
+      title: Software Engineer IV (Data Engineer) · Cisco
+      description: Software and data engineering in the San Francisco Bay Area, with current interests spanning distributed systems, cloud-native platforms, and artificial intelligence.
+      skills: [Data Engineering, Microservices, Kubernetes]
+      branch: Cisco
+    - year: 2021–2026
+      type: note
+      title: Artificial Intelligence Professional Program · Stanford Engineering
+      description: Advanced coursework in deep learning, natural language processing, reinforcement learning, deep generative models, and multi-task and meta learning.
+      skills: [Generative AI, Deep Learning, Reinforcement Learning]
+      branch: CS230 · CS224N · XCS234 · XCS236 · CS330
+    - year: "2025"
+      type: note
+      title: Quantum Computing · MIT xPRO
+      description: Completed an engineering-focused program in quantum computing.
+      skills: [Quantum Computing, Engineering]
+    - year: "2016"
+      type: work
+      title: Teaching Assistant · University of Missouri–Kansas City
+      description: Taught and mentored students through a live extension of Harvard CS50 covering C, HTML, JavaScript, SQL, and Java.
+      skills: [C, JavaScript, SQL, Java]
+      branch: Apr–Jul 2016
+    - year: 2015–2016
+      type: work
+      title: Intern · National Association of Insurance Commissioners
+      description: Tested requirements, collaborated with senior developers, and automated metadata validation across databases with shell and Oracle SQL scripts.
+      skills: [Oracle SQL, Shell, Testing]
+      branch: Aug 2015–Mar 2016
+    - year: 2014–2016
+      type: note
+      title: Master’s in Computer Science · UMKC
+      description: Graduate study focused on computer networks and software development around networked systems.
+      skills: [Computer Networks, Software Development, Security]
+    - year: "2015"
+      type: work
+      title: Graduate Teaching Assistant · UMKC School of Engineering
+      description: Supported the EC428 Embedded Systems course, including grading exams and homework.
+      skills: [Embedded Systems, Teaching, Course Support]
+      branch: Feb–May 2015
+    - year: 2014–2015
+      type: work
+      title: Student Assistant Technical · UMKC Information Services
+      description: Supported the Student Computing Labs at the University of Missouri–Kansas City.
+      skills: [Technical Support, Computing Labs, Student Services]
+      branch: Sep 2014–Aug 2015
+    - year: 2012–2014
+      type: work
+      title: Systems Engineer · Tata Consultancy Services
+      description: Worked as a Systems Engineer in the Greater Chennai Area before beginning graduate study in computer science.
+      skills: [Software Engineering, Systems, Unix]
+      branch: Jan 2012–Sep 2014
+    - year: 2007–2011
+      type: note
+      title: Bachelor’s in Electronics and Communication Engineering · JNTU
+      description: Undergraduate engineering education with activities in the ACME club and work as a student web developer.
+      skills: [Electronics, Communication Engineering, Web Development]
+posts:
+  - slug: how-a-quantum-computer-could-break-rsa
+    date: Dec 2025
+    title: How a Quantum Computer Could Break RSA
+    excerpt: How Shor’s algorithm could use quantum period finding to expose the prime factors behind an RSA public key.
+    description: A plain-language explanation of how a sufficiently powerful quantum computer could use Shor’s algorithm to break RSA.
+    tag: Quantum Computing
+    readingTime: 3 min
+    deck: RSA relies on a mathematical problem that is difficult for ordinary computers but vulnerable to a sufficiently capable quantum computer.
+    featured: true
+    body:
+      - { type: lead, text: "RSA is one of the ways computers protect information online. Its security depends on a simple idea: multiplying two very large prime numbers is easy, but figuring out which primes were multiplied together is extremely difficult for ordinary computers." }
+      - { type: paragraph, text: "Shor’s algorithm shows how a sufficiently powerful quantum computer could solve that problem. It could find a repeating pattern in a sequence of calculations and use that pattern to reveal the secret prime numbers behind an RSA public key. Once the primes are known, the private key can be rebuilt." }
+      - type: image
+        src: /images/shors-algorithm-rsa-flowchart.png
+        alt: Flowchart showing how a quantum computer could use a repeating pattern to recover the prime factors of an RSA public key and rebuild the private key.
+        caption: Shor’s algorithm uses quantum period finding followed by classical calculations to recover the factors behind an RSA public key.
+        width: 1244
+        height: 1106
+      - type: richParagraph
+        parts:
+          - { text: "The repeating pattern is the important part. Shor’s algorithm uses quantum computing to find that pattern efficiently, then ordinary calculations turn it into the secret primes. The algorithm was described by mathematician Peter Shor in 1994. " }
+          - { text: Read Shor’s paper, url: "https://arxiv.org/abs/quant-ph/9508027" }
+          - { text: "." }
+      - type: richParagraph
+        parts:
+          - { text: "This does not mean today’s quantum computers can break real-world RSA keys. That would require a much more powerful, reliable quantum computer than has been demonstrated. But because building and updating security systems takes time, researchers are already preparing cryptography designed to withstand quantum attacks. " }
+          - { text: Read NIST’s overview of quantum computing, url: "https://www.nist.gov/quantum-information-science/quantum-computing-explained" }
+          - { text: "." }
+  - slug: recipe-text-classification-graph-neural-networks
+    date: Winter 2022
+    title: Recipe text classification with graph neural networks
+    excerpt: A Stanford CS224N project comparing a graph-convolutional text classifier with an LSTM baseline.
+    description: A short summary of my Stanford CS224N graph neural network project for recipe classification.
+    tag: Stanford
+    readingTime: 2 min
+    deck: Representing recipe text as a graph offers another way to capture relationships between ingredients and language.
+    featured: true
+    sourceUrl: https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1224/reports/custom_117176180.pdf
+    sourceLabel: Read the Stanford CS224N report
+    body:
+      - { type: lead, text: "For my Stanford CS224N custom project, I used graph convolutional networks to classify recipe text into categories such as vegetarian and meat." }
+      - { type: paragraph, text: "I compared the graph-based model with a Long Short-Term Memory baseline on the same training and test data. The graph convolutional network reached stronger validation performance and learned more quickly in the reported experiments." }
+      - { type: paragraph, text: "The project explored how graph representations can model relationships and interdependencies that are difficult to express as a simple sequence." }
+  - slug: garbage-harvesting-deep-learning
+    date: Fall 2021
+    title: Garbage harvesting using deep learning
+    excerpt: A Stanford CS230 project using transfer learning and OCR to classify waste and identify recycling labels.
+    description: A short summary of my Stanford CS230 deep-learning project for waste classification.
+    tag: Stanford
+    readingTime: 2 min
+    deck: Computer vision can make waste sorting more accurate while also recognizing labels that carry recycling value.
+    featured: true
+    sourceUrl: https://cs230.stanford.edu/projects_fall_2021/reports/103171653.pdf
+    sourceLabel: Read the Stanford CS230 report
+    body:
+      - { type: lead, text: "For Stanford CS230, I trained transfer-learning models to classify waste into cardboard, glass, metal, paper, plastic, and trash." }
+      - { type: paragraph, text: "The experiments compared ResNet18 and ResNet50 with cross-entropy and multi-margin loss. The best ResNet50 configuration achieved 92.36% test accuracy and an F1 score of 0.92." }
+      - { type: paragraph, text: "I also combined CRAFT text detection with Tesseract OCR to identify text on plastic and glass labels, including California redemption markings." }
+  - slug: apache-flink-checkpoint-history-web-ui
+    date: Oct 2020
+    title: Showing checkpoint types in the Apache Flink Web UI
+    excerpt: A merged Apache Flink contribution that added checkpoint-type visibility to checkpoint-history entries in the Web UI.
+    description: A short summary of my open-source contribution to Apache Flink’s checkpoint-history interface.
+    tag: Open Source
+    readingTime: 1 min
+    deck: Operational interfaces are more useful when they expose the context engineers need to interpret system state.
+    featured: false
+    sourceUrl: https://github.com/apache/flink/pull/13458
+    sourceLabel: View the merged Apache Flink PR
+    body:
+      - { type: lead, text: "I contributed a change to Apache Flink that adds checkpoint type information to checkpoint-history entries in the project’s Web UI." }
+      - { type: paragraph, text: "The update carried checkpoint and savepoint type data through the runtime REST response and surfaced it in the history view, making the origin of each entry easier to understand." }
+      - { type: paragraph, text: "The pull request was merged into Apache Flink in October 2020 as part of FLINK-18851." }
+  - slug: apache-flink-rest-api-enum-snapshot
+    date: Oct 2020
+    title: Fixing missing enum values in Apache Flink’s REST API snapshot
+    excerpt: A merged Apache Flink hotfix that brought missing checkpoint-status values into the REST API snapshot.
+    description: A short summary of my open-source REST API snapshot fix for Apache Flink.
+    tag: Open Source
+    readingTime: 1 min
+    deck: Small contract fixes can prevent documentation and compatibility snapshots from drifting away from runtime behavior.
+    featured: false
+    sourceUrl: https://github.com/apache/flink/pull/13542
+    sourceLabel: View the merged Apache Flink PR
+    body:
+      - { type: lead, text: "I fixed missing enum values in Apache Flink’s versioned REST API snapshot for checkpoint status data." }
+      - { type: paragraph, text: "The hotfix aligned the published API snapshot with the states supported by the runtime model, keeping the generated contract complete and accurate." }
+      - { type: paragraph, text: "The contribution was merged into Apache Flink in October 2020 under FLINK-19501." }
+  - slug: kubernetes-eviction-policy-documentation
+    date: Sep 2020
+    title: Improving Kubernetes eviction-policy documentation
+    excerpt: A merged Kubernetes website contribution that moved node-pressure eviction policy into the Scheduling and Eviction concepts section.
+    description: A short summary of my open-source documentation contribution to the Kubernetes website.
+    tag: Open Source
+    readingTime: 1 min
+    deck: "Documentation structure matters: operational concepts should live where readers naturally look for them."
+    featured: false
+    sourceUrl: https://github.com/kubernetes/website/pull/23478
+    sourceLabel: View the merged Kubernetes PR
+    body:
+      - { type: lead, text: "I contributed a documentation reorganization to the Kubernetes website, moving eviction policy material from task-oriented documentation into the Scheduling and Eviction concepts section." }
+      - { type: paragraph, text: "The change made node-pressure eviction guidance easier to discover alongside the related scheduling concepts and updated the affected navigation and references." }
+      - { type: paragraph, text: "The pull request was merged into the Kubernetes website in September 2020." }
+  - slug: smooth-streaming-mpeg-dash-sdn
+    date: Mar 2018
+    title: Smooth streaming with MPEG-DASH and application-aware SDN
+    excerpt: An IEEE ICNC paper on adaptive path selection for improving video-streaming quality of experience.
+    description: A short summary of my IEEE ICNC publication on MPEG-DASH and software-defined networking.
+    tag: Publication
+    readingTime: 2 min
+    deck: Application-aware networking can use live network information to make adaptive video delivery smoother.
+    featured: true
+    sourceUrl: https://doi.org/10.1109/ICCNC.2018.8390315
+    sourceLabel: View the IEEE publication
+    body:
+      - { type: lead, text: "I co-authored this IEEE ICNC 2018 paper with Shuai Zhao, Zhu Li, and Deep Medhi." }
+      - { type: paragraph, text: "The work presents an application-aware networking architecture that uses software-defined networking and adaptive path selection to improve MPEG-DASH delivery without changing the underlying DASH client design." }
+      - { type: paragraph, text: "The evaluation focused on smoother playback, fewer bitrate-switching events, and better use of available network paths under changing traffic conditions." }
+  - slug: improving-video-streaming-qoe-thesis
+    date: Dec 2016
+    title: Improving video-streaming QoE using network awareness
+    excerpt: My UMKC master’s thesis on applying network awareness to improve video-streaming quality of experience.
+    description: A short summary of my UMKC master’s thesis on network-aware video streaming.
+    tag: Thesis
+    readingTime: 1 min
+    deck: Better streaming decisions begin with a clearer view of what the network is doing.
+    featured: false
+    sourceUrl: https://hdl.handle.net/10355/60053
+    sourceLabel: View the thesis in UMKC’s MOspace repository
+    body:
+      - { type: lead, text: "I completed my master’s thesis, Improving QoE of Video Streaming using Network Awareness, at the University of Missouri–Kansas City in December 2016 under Deep Medhi." }
+      - { type: paragraph, text: "The thesis investigated how awareness of network conditions can inform video-streaming decisions and improve the viewer’s quality of experience." }
+  - slug: handmeup-hackprinceton
+    date: Nov 2016
+    title: HandMeUp at HackPrinceton
+    excerpt: A volunteer-coordination platform designed to move surplus food from restaurants and markets to shelters and food pantries.
+    description: A short summary of the HandMeUp project built at HackPrinceton Fall 2016.
+    tag: Devpost
+    readingTime: 1 min
+    deck: Connecting food donors, community organizations, and volunteers can turn avoidable waste into local support.
+    featured: false
+    sourceUrl: https://devpost.com/software/handmeup
+    sourceLabel: View HandMeUp on Devpost
+    body:
+      - { type: lead, text: "At HackPrinceton Fall 2016, our team built HandMeUp to coordinate the delivery of surplus food from markets and restaurants to local shelters and food pantries." }
+      - { type: paragraph, text: "The project paired an Ionic and Apache Cordova mobile experience for volunteers with an Azure-backed website for food donors and recipient organizations." }
+      - { type: paragraph, text: "The prototype used location-aware delivery listings to help volunteers find open pickups and navigate between donors and recipients." }
+  - slug: outbreak-monitor-techweek-kc
+    date: Sep 2016
+    title: Outbreak Monitor at Techweek Kansas City
+    excerpt: A health-data visualization prototype for exploring medical incidents, illness trends, and the hospitals handling reported cases.
+    description: A short summary of the Outbreak Monitor project built at the 2016 Techweek Kansas City Hackathon.
+    tag: Devpost
+    readingTime: 1 min
+    deck: Mapping medical incidents can help communities and researchers see how illness changes across place and time.
+    featured: false
+    sourceUrl: https://devpost.com/software/outbreak-monitor
+    sourceLabel: View Outbreak Monitor on Devpost
+    body:
+      - { type: lead, text: "At the 2016 Techweek Kansas City Hackathon, our team created Outbreak Monitor to visualize the location and progression of medical incidents." }
+      - { type: paragraph, text: "The JavaScript prototype plotted GPS data from JSON on a map, added trend charts and filters, and connected incidents with the hospitals handling them." }
+      - { type: paragraph, text: "The concept was aimed at epidemiology and at people affected by environmental or infectious diseases." }
+  - slug: dream-home-hack-k-state
+    date: May 2016
+    title: Dream Home at Hack K-State
+    excerpt: A virtual-reality home-building prototype controlled with Oculus Rift and Leap Motion hand gestures.
+    description: A short summary of the award-winning Dream Home project built at Hack K-State 2016.
+    tag: Devpost
+    readingTime: 1 min
+    deck: Virtual reality and natural hand gestures can turn architectural ideas into an environment people can explore.
+    featured: false
+    sourceUrl: https://devpost.com/software/dream-home
+    sourceLabel: View Dream Home on Devpost
+    body:
+      - { type: lead, text: "At Hack K-State 2016, our team built Dream Home, a Unity-based virtual-reality experience for creating and exploring a three-dimensional home." }
+      - { type: paragraph, text: "The prototype combined Oculus Rift with Leap Motion so users could interact with objects using natural hand gestures, with C# and JavaScript supporting the experience." }
+      - { type: paragraph, text: "Dream Home received Hack K-State’s Best Domain Name from Domain.com award." }
+  - slug: chrono-emergency-hackprinceton
+    date: Apr 2016
+    title: Chrono | Emergency at HackPrinceton
+    excerpt: An Apple Watch emergency-notification prototype recognized as a HackPrinceton Spring 2016 winner.
+    description: A short summary of the Chrono Emergency project built at HackPrinceton 2016.
+    tag: Devpost
+    readingTime: 1 min
+    deck: A rapid prototype for helping loved ones communicate when an emergency occurs.
+    featured: false
+    sourceUrl: https://devpost.com/software/chrono-emergency-0z4q69
+    sourceLabel: View Chrono | Emergency on Devpost
+    body:
+      - { type: lead, text: "At HackPrinceton Spring 2016, our team built Chrono | Emergency to help people use an Apple Watch to notify others when an emergency occurs." }
+      - { type: paragraph, text: "The project focused on a clear, time-sensitive safety workflow and was recognized as a winner at the event, including the Best AWS Hack award." }
