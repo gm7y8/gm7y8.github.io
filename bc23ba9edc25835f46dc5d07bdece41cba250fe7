@@ -1,0 +1,2470 @@
+{
+  "version": 3,
+  "schemaVersion": 3,
+  "source": "mantis",
+  "sourceVersion": "1.0.16",
+  "generatedAt": "2026-09-30T06:03:08.788Z",
+  "hosts": [
+    "vscode-codex"
+  ],
+  "metadata": {
+    "sourceCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc"
+  },
+  "files": [
+    {
+      "file": ".github/workflows/deploy.yml",
+      "action": "added",
+      "linesAffected": 48,
+      "linesAdded": 48,
+      "linesDeleted": 0,
+      "totalLines": 48,
+      "assistant": null,
+      "actors": {
+        "ai": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 48,
+          "deleted": 0,
+          "changed": 48,
+          "touched": 48
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 48
+    },
+    {
+      "file": ".gitignore",
+      "action": "added",
+      "linesAffected": 40,
+      "linesAdded": 40,
+      "linesDeleted": 0,
+      "totalLines": 40,
+      "assistant": null,
+      "actors": {
+        "ai": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 40,
+          "deleted": 0,
+          "changed": 40,
+          "touched": 40
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 40
+    },
+    {
+      "file": "app/about/page.tsx",
+      "action": "added",
+      "linesAffected": 47,
+      "linesAdded": 47,
+      "linesDeleted": 0,
+      "totalLines": 47,
+      "assistant": "codex",
+      "actors": {
+        "ai": {
+          "added": 47,
+          "deleted": 0,
+          "changed": 47,
+          "touched": 47
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 47
+    },
+    {
+      "file": "app/blog/[slug]/page.tsx",
+      "action": "added",
+      "linesAffected": 46,
+      "linesAdded": 46,
+      "linesDeleted": 0,
+      "totalLines": 46,
+      "assistant": null,
+      "actors": {
+        "ai": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 46,
+          "deleted": 0,
+          "changed": 46,
+          "touched": 46
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 46
+    },
+    {
+      "file": "app/blog/page.tsx",
+      "action": "added",
+      "linesAffected": 30,
+      "linesAdded": 30,
+      "linesDeleted": 0,
+      "totalLines": 30,
+      "assistant": null,
+      "actors": {
+        "ai": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 30,
+          "deleted": 0,
+          "changed": 30,
+          "touched": 30
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 30
+    },
+    {
+      "file": "app/globals.css",
+      "action": "added",
+      "linesAffected": 140,
+      "linesAdded": 140,
+      "linesDeleted": 0,
+      "totalLines": 140,
+      "assistant": "codex",
+      "actors": {
+        "ai": {
+          "added": 140,
+          "deleted": 0,
+          "changed": 140,
+          "touched": 140
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 140
+    },
+    {
+      "file": "app/layout.tsx",
+      "action": "added",
+      "linesAffected": 37,
+      "linesAdded": 37,
+      "linesDeleted": 0,
+      "totalLines": 37,
+      "assistant": null,
+      "actors": {
+        "ai": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 37,
+          "deleted": 0,
+          "changed": 37,
+          "touched": 37
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 37
+    },
+    {
+      "file": "app/page.tsx",
+      "action": "added",
+      "linesAffected": 54,
+      "linesAdded": 54,
+      "linesDeleted": 0,
+      "totalLines": 54,
+      "assistant": null,
+      "actors": {
+        "ai": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 54,
+          "deleted": 0,
+          "changed": 54,
+          "touched": 54
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 54
+    },
+    {
+      "file": "app/site-components.tsx",
+      "action": "added",
+      "linesAffected": 51,
+      "linesAdded": 51,
+      "linesDeleted": 0,
+      "totalLines": 51,
+      "assistant": null,
+      "actors": {
+        "ai": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 51,
+          "deleted": 0,
+          "changed": 51,
+          "touched": 51
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 51
+    },
+    {
+      "file": "content/site.yaml",
+      "action": "added",
+      "linesAffected": 291,
+      "linesAdded": 291,
+      "linesDeleted": 0,
+      "totalLines": 291,
+      "assistant": "codex",
+      "actors": {
+        "ai": {
+          "added": 291,
+          "deleted": 0,
+          "changed": 291,
+          "touched": 291
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 291
+    },
+    {
+      "file": "eslint.config.mjs",
+      "action": "added",
+      "linesAffected": 41,
+      "linesAdded": 41,
+      "linesDeleted": 0,
+      "totalLines": 41,
+      "assistant": null,
+      "actors": {
+        "ai": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 41,
+          "deleted": 0,
+          "changed": 41,
+          "touched": 41
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 41
+    },
+    {
+      "file": "lib/content.ts",
+      "action": "added",
+      "linesAffected": 32,
+      "linesAdded": 32,
+      "linesDeleted": 0,
+      "totalLines": 32,
+      "assistant": "codex",
+      "actors": {
+        "ai": {
+          "added": 32,
+          "deleted": 0,
+          "changed": 32,
+          "touched": 32
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 32
+    },
+    {
+      "file": "next-env.d.ts",
+      "action": "added",
+      "linesAffected": 6,
+      "linesAdded": 6,
+      "linesDeleted": 0,
+      "totalLines": 6,
+      "assistant": null,
+      "actors": {
+        "ai": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 6,
+          "deleted": 0,
+          "changed": 6,
+          "touched": 6
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 6
+    },
+    {
+      "file": "next.config.ts",
+      "action": "added",
+      "linesAffected": 9,
+      "linesAdded": 9,
+      "linesDeleted": 0,
+      "totalLines": 9,
+      "assistant": null,
+      "actors": {
+        "ai": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 9,
+          "deleted": 0,
+          "changed": 9,
+          "touched": 9
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 9
+    },
+    {
+      "file": "package-lock.json",
+      "action": "added",
+      "linesAffected": 5988,
+      "linesAdded": 5988,
+      "linesDeleted": 0,
+      "totalLines": 5988,
+      "assistant": null,
+      "actors": {
+        "ai": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 5988,
+          "deleted": 0,
+          "changed": 5988,
+          "touched": 5988
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 5988
+    },
+    {
+      "file": "package.json",
+      "action": "added",
+      "linesAffected": 37,
+      "linesAdded": 37,
+      "linesDeleted": 0,
+      "totalLines": 37,
+      "assistant": null,
+      "actors": {
+        "ai": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 37,
+          "deleted": 0,
+          "changed": 37,
+          "touched": 37
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 37
+    },
+    {
+      "file": "postcss.config.mjs",
+      "action": "added",
+      "linesAffected": 7,
+      "linesAdded": 7,
+      "linesDeleted": 0,
+      "totalLines": 7,
+      "assistant": null,
+      "actors": {
+        "ai": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 7,
+          "deleted": 0,
+          "changed": 7,
+          "touched": 7
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 7
+    },
+    {
+      "file": "public/.nojekyll",
+      "action": "added",
+      "linesAffected": 1,
+      "linesAdded": 1,
+      "linesDeleted": 0,
+      "totalLines": 1,
+      "assistant": null,
+      "actors": {
+        "ai": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 1,
+          "deleted": 0,
+          "changed": 1,
+          "touched": 1
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 1
+    },
+    {
+      "file": "public/favicon.svg",
+      "action": "added",
+      "linesAffected": 6,
+      "linesAdded": 6,
+      "linesDeleted": 0,
+      "totalLines": 6,
+      "assistant": null,
+      "actors": {
+        "ai": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 6,
+          "deleted": 0,
+          "changed": 6,
+          "touched": 6
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 6
+    },
+    {
+      "file": "public/file.svg",
+      "action": "added",
+      "linesAffected": 1,
+      "linesAdded": 1,
+      "linesDeleted": 0,
+      "totalLines": 1,
+      "assistant": null,
+      "actors": {
+        "ai": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 1,
+          "deleted": 0,
+          "changed": 1,
+          "touched": 1
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 1
+    },
+    {
+      "file": "public/globe.svg",
+      "action": "added",
+      "linesAffected": 1,
+      "linesAdded": 1,
+      "linesDeleted": 0,
+      "totalLines": 1,
+      "assistant": null,
+      "actors": {
+        "ai": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 1,
+          "deleted": 0,
+          "changed": 1,
+          "touched": 1
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 1
+    },
+    {
+      "file": "public/window.svg",
+      "action": "added",
+      "linesAffected": 1,
+      "linesAdded": 1,
+      "linesDeleted": 0,
+      "totalLines": 1,
+      "assistant": null,
+      "actors": {
+        "ai": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 1,
+          "deleted": 0,
+          "changed": 1,
+          "touched": 1
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 1
+    },
+    {
+      "file": "tests/static-export.test.mjs",
+      "action": "added",
+      "linesAffected": 33,
+      "linesAdded": 33,
+      "linesDeleted": 0,
+      "totalLines": 33,
+      "assistant": "codex",
+      "actors": {
+        "ai": {
+          "added": 33,
+          "deleted": 0,
+          "changed": 33,
+          "touched": 33
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 33
+    },
+    {
+      "file": "tsconfig.json",
+      "action": "added",
+      "linesAffected": 42,
+      "linesAdded": 42,
+      "linesDeleted": 0,
+      "totalLines": 42,
+      "assistant": null,
+      "actors": {
+        "ai": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "manual": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "tool": {
+          "added": 0,
+          "deleted": 0,
+          "changed": 0,
+          "touched": 0
+        },
+        "unknown": {
+          "added": 42,
+          "deleted": 0,
+          "changed": 42,
+          "touched": 42
+        }
+      },
+      "hosts": [
+        "vscode-codex"
+      ],
+      "linesTouched": 42
+    }
+  ],
+  "hunks": [
+    {
+      "hunkId": "staged:1:.github/workflows/deploy.yml",
+      "relativePath": ".github/workflows/deploy.yml",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 48,
+      "linesAdded": 48,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "unknown",
+        "contributors": [
+          {
+            "actor": "unknown",
+            "tool": null,
+            "source": "staged-diff",
+            "evidenceLevel": "unknown"
+          }
+        ],
+        "actors": [
+          "unknown"
+        ],
+        "aiInvolved": false,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": true
+      },
+      "evidence": {
+        "level": "unknown",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-previous-ci-note",
+        "inheritedCiPayloadHunkId": "staged:1:.github/workflows/deploy.yml",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": ".github/workflows/deploy.yml",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 1,
+        "matchedInheritedHunkCount": 1,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "unknown": {
+            "added": 48,
+            "deleted": 0,
+            "changed": 48,
+            "touched": 48
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:2:.gitignore",
+      "relativePath": ".gitignore",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 40,
+      "linesAdded": 40,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "unknown",
+        "contributors": [
+          {
+            "actor": "unknown",
+            "tool": null,
+            "source": "staged-diff",
+            "evidenceLevel": "unknown"
+          }
+        ],
+        "actors": [
+          "unknown"
+        ],
+        "aiInvolved": false,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": true
+      },
+      "evidence": {
+        "level": "unknown",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-previous-ci-note",
+        "inheritedCiPayloadHunkId": "staged:2:.gitignore",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": ".gitignore",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 1,
+        "matchedInheritedHunkCount": 1,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "unknown": {
+            "added": 40,
+            "deleted": 0,
+            "changed": 40,
+            "touched": 40
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:3:app/about/page.tsx",
+      "relativePath": "app/about/page.tsx",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 47,
+      "linesAdded": 47,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "ai_only",
+        "contributors": [
+          {
+            "actor": "ai",
+            "tool": "codex",
+            "source": "amend-pending-ci-note.file-assistant",
+            "evidenceLevel": "inferred"
+          }
+        ],
+        "actors": [
+          "ai"
+        ],
+        "aiInvolved": true,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": false
+      },
+      "evidence": {
+        "level": "inferred",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-pending-ci-note",
+        "inheritedCiPayloadHunkId": "staged:1:app/about/page.tsx:codex-patch:all",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "app/about/page.tsx",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 2,
+        "matchedInheritedHunkCount": 2,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "ai": {
+            "added": 47,
+            "deleted": 0,
+            "changed": 47,
+            "touched": 47
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:4:app/blog/[slug]/page.tsx",
+      "relativePath": "app/blog/[slug]/page.tsx",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 46,
+      "linesAdded": 46,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "unknown",
+        "contributors": [
+          {
+            "actor": "unknown",
+            "tool": null,
+            "source": "staged-diff",
+            "evidenceLevel": "unknown"
+          }
+        ],
+        "actors": [
+          "unknown"
+        ],
+        "aiInvolved": false,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": true
+      },
+      "evidence": {
+        "level": "unknown",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-previous-ci-note",
+        "inheritedCiPayloadHunkId": "staged:4:app/blog/[slug]/page.tsx",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "app/blog/[slug]/page.tsx",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 1,
+        "matchedInheritedHunkCount": 1,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "unknown": {
+            "added": 46,
+            "deleted": 0,
+            "changed": 46,
+            "touched": 46
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:5:app/blog/page.tsx",
+      "relativePath": "app/blog/page.tsx",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 30,
+      "linesAdded": 30,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "unknown",
+        "contributors": [
+          {
+            "actor": "unknown",
+            "tool": null,
+            "source": "staged-diff",
+            "evidenceLevel": "unknown"
+          }
+        ],
+        "actors": [
+          "unknown"
+        ],
+        "aiInvolved": false,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": true
+      },
+      "evidence": {
+        "level": "unknown",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-previous-ci-note",
+        "inheritedCiPayloadHunkId": "staged:5:app/blog/page.tsx",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "app/blog/page.tsx",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 1,
+        "matchedInheritedHunkCount": 1,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "unknown": {
+            "added": 30,
+            "deleted": 0,
+            "changed": 30,
+            "touched": 30
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:6:app/globals.css",
+      "relativePath": "app/globals.css",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 140,
+      "linesAdded": 140,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "ai_only",
+        "contributors": [
+          {
+            "actor": "ai",
+            "tool": "codex",
+            "source": "amend-pending-ci-note.file-assistant",
+            "evidenceLevel": "inferred"
+          }
+        ],
+        "actors": [
+          "ai"
+        ],
+        "aiInvolved": true,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": false
+      },
+      "evidence": {
+        "level": "inferred",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-pending-ci-note",
+        "inheritedCiPayloadHunkId": "staged:2:app/globals.css:codex-patch:all",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "app/globals.css",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 2,
+        "matchedInheritedHunkCount": 2,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "ai": {
+            "added": 140,
+            "deleted": 0,
+            "changed": 140,
+            "touched": 140
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:7:app/layout.tsx",
+      "relativePath": "app/layout.tsx",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 37,
+      "linesAdded": 37,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "unknown",
+        "contributors": [
+          {
+            "actor": "unknown",
+            "tool": null,
+            "source": "staged-diff",
+            "evidenceLevel": "unknown"
+          }
+        ],
+        "actors": [
+          "unknown"
+        ],
+        "aiInvolved": false,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": true
+      },
+      "evidence": {
+        "level": "unknown",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-previous-ci-note",
+        "inheritedCiPayloadHunkId": "staged:7:app/layout.tsx",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "app/layout.tsx",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 1,
+        "matchedInheritedHunkCount": 1,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "unknown": {
+            "added": 37,
+            "deleted": 0,
+            "changed": 37,
+            "touched": 37
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:8:app/page.tsx",
+      "relativePath": "app/page.tsx",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 54,
+      "linesAdded": 54,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "unknown",
+        "contributors": [
+          {
+            "actor": "unknown",
+            "tool": null,
+            "source": "staged-diff",
+            "evidenceLevel": "unknown"
+          }
+        ],
+        "actors": [
+          "unknown"
+        ],
+        "aiInvolved": false,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": true
+      },
+      "evidence": {
+        "level": "unknown",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-previous-ci-note",
+        "inheritedCiPayloadHunkId": "staged:8:app/page.tsx",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "app/page.tsx",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 1,
+        "matchedInheritedHunkCount": 1,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "unknown": {
+            "added": 54,
+            "deleted": 0,
+            "changed": 54,
+            "touched": 54
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:9:app/site-components.tsx",
+      "relativePath": "app/site-components.tsx",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 51,
+      "linesAdded": 51,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "unknown",
+        "contributors": [
+          {
+            "actor": "unknown",
+            "tool": null,
+            "source": "staged-diff",
+            "evidenceLevel": "unknown"
+          }
+        ],
+        "actors": [
+          "unknown"
+        ],
+        "aiInvolved": false,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": true
+      },
+      "evidence": {
+        "level": "unknown",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-previous-ci-note",
+        "inheritedCiPayloadHunkId": "staged:9:app/site-components.tsx",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "app/site-components.tsx",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 1,
+        "matchedInheritedHunkCount": 1,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "unknown": {
+            "added": 51,
+            "deleted": 0,
+            "changed": 51,
+            "touched": 51
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:10:content/site.yaml",
+      "relativePath": "content/site.yaml",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 291,
+      "linesAdded": 291,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "ai_only",
+        "contributors": [
+          {
+            "actor": "ai",
+            "tool": "codex",
+            "source": "codex-session.patch",
+            "evidenceLevel": "inferred"
+          },
+          {
+            "actor": "ai",
+            "tool": "codex",
+            "source": "amend-pending-ci-note.file-assistant",
+            "evidenceLevel": "inferred"
+          }
+        ],
+        "actors": [
+          "ai"
+        ],
+        "aiInvolved": true,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": false
+      },
+      "evidence": {
+        "level": "inferred",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-pending-ci-note",
+        "inheritedCiPayloadHunkId": "staged:3:content/site.yaml:codex-patch:all",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "content/site.yaml",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 2,
+        "matchedInheritedHunkCount": 2,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "ai": {
+            "added": 291,
+            "deleted": 0,
+            "changed": 291,
+            "touched": 291
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:11:eslint.config.mjs",
+      "relativePath": "eslint.config.mjs",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 41,
+      "linesAdded": 41,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "unknown",
+        "contributors": [
+          {
+            "actor": "unknown",
+            "tool": null,
+            "source": "staged-diff",
+            "evidenceLevel": "unknown"
+          }
+        ],
+        "actors": [
+          "unknown"
+        ],
+        "aiInvolved": false,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": true
+      },
+      "evidence": {
+        "level": "unknown",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-previous-ci-note",
+        "inheritedCiPayloadHunkId": "staged:11:eslint.config.mjs",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "eslint.config.mjs",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 1,
+        "matchedInheritedHunkCount": 1,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "unknown": {
+            "added": 41,
+            "deleted": 0,
+            "changed": 41,
+            "touched": 41
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:12:lib/content.ts",
+      "relativePath": "lib/content.ts",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 32,
+      "linesAdded": 32,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "ai_only",
+        "contributors": [
+          {
+            "actor": "ai",
+            "tool": "codex",
+            "source": "amend-pending-ci-note.file-assistant",
+            "evidenceLevel": "inferred"
+          }
+        ],
+        "actors": [
+          "ai"
+        ],
+        "aiInvolved": true,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": false
+      },
+      "evidence": {
+        "level": "inferred",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-pending-ci-note",
+        "inheritedCiPayloadHunkId": "staged:4:lib/content.ts:codex-patch:all",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "lib/content.ts",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 2,
+        "matchedInheritedHunkCount": 2,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "ai": {
+            "added": 32,
+            "deleted": 0,
+            "changed": 32,
+            "touched": 32
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:13:next-env.d.ts",
+      "relativePath": "next-env.d.ts",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 6,
+      "linesAdded": 6,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "unknown",
+        "contributors": [
+          {
+            "actor": "unknown",
+            "tool": null,
+            "source": "staged-diff",
+            "evidenceLevel": "unknown"
+          }
+        ],
+        "actors": [
+          "unknown"
+        ],
+        "aiInvolved": false,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": true
+      },
+      "evidence": {
+        "level": "unknown",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-previous-ci-note",
+        "inheritedCiPayloadHunkId": "staged:13:next-env.d.ts",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "next-env.d.ts",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 1,
+        "matchedInheritedHunkCount": 1,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "unknown": {
+            "added": 6,
+            "deleted": 0,
+            "changed": 6,
+            "touched": 6
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:14:next.config.ts",
+      "relativePath": "next.config.ts",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 9,
+      "linesAdded": 9,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "unknown",
+        "contributors": [
+          {
+            "actor": "unknown",
+            "tool": null,
+            "source": "staged-diff",
+            "evidenceLevel": "unknown"
+          }
+        ],
+        "actors": [
+          "unknown"
+        ],
+        "aiInvolved": false,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": true
+      },
+      "evidence": {
+        "level": "unknown",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-previous-ci-note",
+        "inheritedCiPayloadHunkId": "staged:14:next.config.ts",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "next.config.ts",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 1,
+        "matchedInheritedHunkCount": 1,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "unknown": {
+            "added": 9,
+            "deleted": 0,
+            "changed": 9,
+            "touched": 9
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:15:package-lock.json",
+      "relativePath": "package-lock.json",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 5988,
+      "linesAdded": 5988,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "unknown",
+        "contributors": [
+          {
+            "actor": "unknown",
+            "tool": null,
+            "source": "staged-diff",
+            "evidenceLevel": "unknown"
+          }
+        ],
+        "actors": [
+          "unknown"
+        ],
+        "aiInvolved": false,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": true
+      },
+      "evidence": {
+        "level": "unknown",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-previous-ci-note",
+        "inheritedCiPayloadHunkId": "staged:15:package-lock.json",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "package-lock.json",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 1,
+        "matchedInheritedHunkCount": 1,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "unknown": {
+            "added": 5988,
+            "deleted": 0,
+            "changed": 5988,
+            "touched": 5988
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:16:package.json",
+      "relativePath": "package.json",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 37,
+      "linesAdded": 37,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "unknown",
+        "contributors": [
+          {
+            "actor": "unknown",
+            "tool": null,
+            "source": "staged-diff",
+            "evidenceLevel": "unknown"
+          }
+        ],
+        "actors": [
+          "unknown"
+        ],
+        "aiInvolved": false,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": true
+      },
+      "evidence": {
+        "level": "unknown",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-previous-ci-note",
+        "inheritedCiPayloadHunkId": "staged:16:package.json",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "package.json",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 1,
+        "matchedInheritedHunkCount": 1,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "unknown": {
+            "added": 37,
+            "deleted": 0,
+            "changed": 37,
+            "touched": 37
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:17:postcss.config.mjs",
+      "relativePath": "postcss.config.mjs",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 7,
+      "linesAdded": 7,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "unknown",
+        "contributors": [
+          {
+            "actor": "unknown",
+            "tool": null,
+            "source": "staged-diff",
+            "evidenceLevel": "unknown"
+          }
+        ],
+        "actors": [
+          "unknown"
+        ],
+        "aiInvolved": false,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": true
+      },
+      "evidence": {
+        "level": "unknown",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-previous-ci-note",
+        "inheritedCiPayloadHunkId": "staged:17:postcss.config.mjs",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "postcss.config.mjs",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 1,
+        "matchedInheritedHunkCount": 1,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "unknown": {
+            "added": 7,
+            "deleted": 0,
+            "changed": 7,
+            "touched": 7
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:18:public/.nojekyll",
+      "relativePath": "public/.nojekyll",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 1,
+      "linesAdded": 1,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "unknown",
+        "contributors": [
+          {
+            "actor": "unknown",
+            "tool": null,
+            "source": "staged-diff",
+            "evidenceLevel": "unknown"
+          }
+        ],
+        "actors": [
+          "unknown"
+        ],
+        "aiInvolved": false,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": true
+      },
+      "evidence": {
+        "level": "unknown",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-previous-ci-note",
+        "inheritedCiPayloadHunkId": "staged:18:public/.nojekyll",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "public/.nojekyll",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 1,
+        "matchedInheritedHunkCount": 1,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "unknown": {
+            "added": 1,
+            "deleted": 0,
+            "changed": 1,
+            "touched": 1
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:19:public/favicon.svg",
+      "relativePath": "public/favicon.svg",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 6,
+      "linesAdded": 6,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "unknown",
+        "contributors": [
+          {
+            "actor": "unknown",
+            "tool": null,
+            "source": "staged-diff",
+            "evidenceLevel": "unknown"
+          }
+        ],
+        "actors": [
+          "unknown"
+        ],
+        "aiInvolved": false,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": true
+      },
+      "evidence": {
+        "level": "unknown",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-previous-ci-note",
+        "inheritedCiPayloadHunkId": "staged:19:public/favicon.svg",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "public/favicon.svg",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 1,
+        "matchedInheritedHunkCount": 1,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "unknown": {
+            "added": 6,
+            "deleted": 0,
+            "changed": 6,
+            "touched": 6
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:20:public/file.svg",
+      "relativePath": "public/file.svg",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 1,
+      "linesAdded": 1,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "unknown",
+        "contributors": [
+          {
+            "actor": "unknown",
+            "tool": null,
+            "source": "staged-diff",
+            "evidenceLevel": "unknown"
+          }
+        ],
+        "actors": [
+          "unknown"
+        ],
+        "aiInvolved": false,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": true
+      },
+      "evidence": {
+        "level": "unknown",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-previous-ci-note",
+        "inheritedCiPayloadHunkId": "staged:20:public/file.svg",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "public/file.svg",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 1,
+        "matchedInheritedHunkCount": 1,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "unknown": {
+            "added": 1,
+            "deleted": 0,
+            "changed": 1,
+            "touched": 1
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:21:public/globe.svg",
+      "relativePath": "public/globe.svg",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 1,
+      "linesAdded": 1,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "unknown",
+        "contributors": [
+          {
+            "actor": "unknown",
+            "tool": null,
+            "source": "staged-diff",
+            "evidenceLevel": "unknown"
+          }
+        ],
+        "actors": [
+          "unknown"
+        ],
+        "aiInvolved": false,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": true
+      },
+      "evidence": {
+        "level": "unknown",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-previous-ci-note",
+        "inheritedCiPayloadHunkId": "staged:21:public/globe.svg",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "public/globe.svg",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 1,
+        "matchedInheritedHunkCount": 1,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "unknown": {
+            "added": 1,
+            "deleted": 0,
+            "changed": 1,
+            "touched": 1
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:22:public/window.svg",
+      "relativePath": "public/window.svg",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 1,
+      "linesAdded": 1,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "unknown",
+        "contributors": [
+          {
+            "actor": "unknown",
+            "tool": null,
+            "source": "staged-diff",
+            "evidenceLevel": "unknown"
+          }
+        ],
+        "actors": [
+          "unknown"
+        ],
+        "aiInvolved": false,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": true
+      },
+      "evidence": {
+        "level": "unknown",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-previous-ci-note",
+        "inheritedCiPayloadHunkId": "staged:22:public/window.svg",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "public/window.svg",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 1,
+        "matchedInheritedHunkCount": 1,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "unknown": {
+            "added": 1,
+            "deleted": 0,
+            "changed": 1,
+            "touched": 1
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:23:tests/static-export.test.mjs",
+      "relativePath": "tests/static-export.test.mjs",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 33,
+      "linesAdded": 33,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "ai_only",
+        "contributors": [
+          {
+            "actor": "ai",
+            "tool": "codex",
+            "source": "codex-session.patch",
+            "evidenceLevel": "inferred"
+          },
+          {
+            "actor": "ai",
+            "tool": "codex",
+            "source": "amend-pending-ci-note.file-assistant",
+            "evidenceLevel": "inferred"
+          }
+        ],
+        "actors": [
+          "ai"
+        ],
+        "aiInvolved": true,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": false
+      },
+      "evidence": {
+        "level": "inferred",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-pending-ci-note",
+        "inheritedCiPayloadHunkId": "staged:5:tests/static-export.test.mjs:codex-patch:all",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "tests/static-export.test.mjs",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 2,
+        "matchedInheritedHunkCount": 2,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "ai": {
+            "added": 33,
+            "deleted": 0,
+            "changed": 33,
+            "touched": 33
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    },
+    {
+      "hunkId": "staged:24:tsconfig.json",
+      "relativePath": "tsconfig.json",
+      "oldStart": 0,
+      "oldLines": 0,
+      "newStart": 1,
+      "newLines": 42,
+      "linesAdded": 42,
+      "linesDeleted": 0,
+      "attribution": {
+        "bucket": "unknown",
+        "contributors": [
+          {
+            "actor": "unknown",
+            "tool": null,
+            "source": "staged-diff",
+            "evidenceLevel": "unknown"
+          }
+        ],
+        "actors": [
+          "unknown"
+        ],
+        "aiInvolved": false,
+        "humanInvolved": false,
+        "toolInvolved": false,
+        "unknownInvolved": true
+      },
+      "evidence": {
+        "level": "unknown",
+        "kind": "vscode_change_event",
+        "source": "staged-diff-hunk-overlap-v1",
+        "reason": null
+      },
+      "metadata": {
+        "amendPreviousCommit": "a3cf79fba7479ff691d7ba34f985666d3f1a61bc",
+        "inheritedCiPayloadSource": "amend-previous-ci-note",
+        "inheritedCiPayloadHunkId": "staged:24:tsconfig.json",
+        "strategy": "staged-diff-hunk-overlap-v1",
+        "stagedStatus": "A",
+        "oldPath": null,
+        "newPath": "tsconfig.json",
+        "matchedOperationCount": 0,
+        "matchedHunkCount": 1,
+        "matchedInheritedHunkCount": 1,
+        "inheritedCiPayloadHosts": [
+          "vscode-codex"
+        ],
+        "actorLineCounts": {
+          "unknown": {
+            "added": 42,
+            "deleted": 0,
+            "changed": 42,
+            "touched": 42
+          }
+        },
+        "actorLineCountsSource": "staged-diff-hunk-overlap-v1"
+      }
+    }
+  ],
+  "summary": {
+    "totalHunks": 24,
+    "buckets": {
+      "ai_only": 5,
+      "human_only": 0,
+      "tool_only": 0,
+      "mixed_ai_human": 0,
+      "mixed_ai_tool": 0,
+      "mixed_human_tool": 0,
+      "mixed_ai_human_tool": 0,
+      "unknown": 19
+    },
+    "aiInvolved": 5,
+    "humanInvolved": 0,
+    "toolInvolved": 0,
+    "unknownInvolved": 19,
+    "linesAdded": 6989,
+    "linesDeleted": 0
+  },
+  "reconciliation": {
+    "schemaVersion": 3,
+    "strategy": "staged-diff-hunk-overlap-v1",
+    "stagedHunkCount": 24,
+    "matchedHunkCount": 24,
+    "unknownHunkCount": 19,
+    "files": [
+      ".github/workflows/deploy.yml",
+      ".gitignore",
+      "app/about/page.tsx",
+      "app/blog/[slug]/page.tsx",
+      "app/blog/page.tsx",
+      "app/globals.css",
+      "app/layout.tsx",
+      "app/page.tsx",
+      "app/site-components.tsx",
+      "content/site.yaml",
+      "eslint.config.mjs",
+      "lib/content.ts",
+      "next-env.d.ts",
+      "next.config.ts",
+      "package-lock.json",
+      "package.json",
+      "postcss.config.mjs",
+      "public/.nojekyll",
+      "public/favicon.svg",
+      "public/file.svg",
+      "public/globe.svg",
+      "public/window.svg",
+      "tests/static-export.test.mjs",
+      "tsconfig.json"
+    ],
+    "lineSummaryByBucket": {
+      "ai_only": {
+        "hunks": 5,
+        "linesAdded": 543,
+        "linesDeleted": 0
+      },
+      "human_only": {
+        "hunks": 0,
+        "linesAdded": 0,
+        "linesDeleted": 0
+      },
+      "tool_only": {
+        "hunks": 0,
+        "linesAdded": 0,
+        "linesDeleted": 0
+      },
+      "mixed_ai_human": {
+        "hunks": 0,
+        "linesAdded": 0,
+        "linesDeleted": 0
+      },
+      "mixed_ai_tool": {
+        "hunks": 0,
+        "linesAdded": 0,
+        "linesDeleted": 0
+      },
+      "mixed_human_tool": {
+        "hunks": 0,
+        "linesAdded": 0,
+        "linesDeleted": 0
+      },
+      "mixed_ai_human_tool": {
+        "hunks": 0,
+        "linesAdded": 0,
+        "linesDeleted": 0
+      },
+      "unknown": {
+        "hunks": 19,
+        "linesAdded": 6446,
+        "linesDeleted": 0
+      }
+    },
+    "hunkSummary": {
+      "totalHunks": 24,
+      "buckets": {
+        "ai_only": 5,
+        "human_only": 0,
+        "tool_only": 0,
+        "mixed_ai_human": 0,
+        "mixed_ai_tool": 0,
+        "mixed_human_tool": 0,
+        "mixed_ai_human_tool": 0,
+        "unknown": 19
+      },
+      "aiInvolved": 5,
+      "humanInvolved": 0,
+      "toolInvolved": 0,
+      "unknownInvolved": 19,
+      "linesAdded": 6989,
+      "linesDeleted": 0
+    }
+  }
+}
